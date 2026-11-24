@@ -1,0 +1,20 @@
+Bartholomew
+Third-year B.Tech Computer Science (AI & ML), MS Ramaiah Institute of Technology
+
+SKILLS
+Python, JavaScript, TypeScript, Next.js, React, Supabase, SQL, Git, Tailwind CSS, Pandas, NumPy
+
+PROJECTS
+- Built MATCHDAY, a full-stack FIFA World Cup 2026 prediction platform using Next.js 15, Supabase, and Framer Motion, including a database schema for leaderboards, achievements, and notifications
+- Developed a LaLiga fantasy football website with an interactive squad builder, live league table, and fixtures view
+- Built a ride fare comparison web app across multiple providers
+- Built an online supermarket web app with cart and checkout flow
+- Currently building an ML portfolio including a football match outcome predictor using historical match data and engineered features such as team form and head-to-head record
+
+EDUCATION
+B.Tech, Computer Science (Artificial Intelligence & Machine Learning), MS Ramaiah Institute of Technology, expected 2027
+Relevant coursework: Machine Learning, Databases, Operating Systems, Automata Theory, Compiler Design, Algorithms, Statistics
+
+EXTRACURRICULAR
+Completed Anthropic's Claude developer courses
+Following a structured self-directed ML roadmap covering math foundations, Python data tooling, scikit-learn, and PyTorch

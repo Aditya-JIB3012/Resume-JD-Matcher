@@ -1,0 +1,19 @@
+Data Science / ML Intern
+
+We are looking for a Data Science Intern to join our small AI team.
+
+Responsibilities:
+- Build and evaluate machine learning models using Python and scikit-learn
+- Work with SQL databases to extract and clean data for analysis
+- Build data visualizations and dashboards to communicate findings to stakeholders
+- Collaborate with engineers to deploy models into a production web application
+- Write clean, well-documented code and contribute to internal tooling
+
+Requirements:
+- Currently pursuing a degree in Computer Science, Data Science, or a related field
+- Strong foundation in Python and data analysis libraries such as Pandas and NumPy
+- Familiarity with machine learning concepts and frameworks such as scikit-learn or PyTorch
+- Experience with SQL and relational databases
+- Bonus: experience with React or Next.js for building internal dashboards
+- Bonus: experience with data visualization tools such as Tableau or Power BI
+- Strong communication skills and ability to explain technical results to non-technical stakeholders
